@@ -1,0 +1,14 @@
+product_id,product_name,category,price
+101,iPhone 14,Electronics,80000.0
+102,Laptop HP,Electronics,60000.0
+103,Samsung Galaxy,Electronics,70000.0
+104,Headphones,Electronics,4000.0
+105,Gaming Mouse,Electronics,1500.0
+106,Nike Shoes,Fashion,5000.0
+107,Adidas T-Shirt,Fashion,2000.0
+108,Levi Jeans,Fashion,3500.0
+109,Smart Watch,Accessories,3000.0
+110,Backpack,Accessories,2500.0
+111,Sunglasses,Accessories,1800.0
+112,Office Chair,Furniture,7000.0
+113,Study Table,Furniture,5500.0

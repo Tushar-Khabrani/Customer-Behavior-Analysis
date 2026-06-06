@@ -1,0 +1,23 @@
+customer_id,name,city,order_date,product_name,category,price,quantity,revenue
+1,Rahul,Ahmedabad,2024-01-10,iPhone 14,Electronics,80000.0,1,80000.0
+1,Rahul,Ahmedabad,2024-01-10,Smart Watch,Accessories,3000.0,1,3000.0
+2,Priya,Mumbai,2024-01-15,Nike Shoes,Fashion,5000.0,2,10000.0
+3,Amit,Delhi,2024-02-01,Laptop HP,Electronics,60000.0,1,60000.0
+4,Neha,Pune,2024-02-05,Smart Watch,Accessories,3000.0,1,3000.0
+5,Karan,Bangalore,2024-02-20,Adidas T-Shirt,Fashion,2000.0,3,6000.0
+6,Sneha,Hyderabad,2024-03-10,Headphones,Electronics,4000.0,2,8000.0
+7,Arjun,Jaipur,2024-03-22,Backpack,Accessories,2500.0,1,2500.0
+8,Ritika,Ahmedabad,2024-04-01,iPhone 14,Electronics,80000.0,1,80000.0
+9,Vikram,Delhi,2024-04-15,Nike Shoes,Fashion,5000.0,2,10000.0
+10,Anjali,Mumbai,2024-04-28,Adidas T-Shirt,Fashion,2000.0,1,2000.0
+1,Rahul,Ahmedabad,2024-05-05,Gaming Mouse,Electronics,1500.0,2,3000.0
+1,Rahul,Ahmedabad,2024-05-05,Sunglasses,Accessories,1800.0,1,1800.0
+2,Priya,Mumbai,2024-05-18,Samsung Galaxy,Electronics,70000.0,1,70000.0
+5,Karan,Bangalore,2024-06-01,iPhone 14,Electronics,80000.0,1,80000.0
+11,Rohit,Ahmedabad,2024-06-15,Office Chair,Furniture,7000.0,1,7000.0
+12,Deepika,Chennai,2024-07-02,Headphones,Electronics,4000.0,1,4000.0
+13,Saurabh,Pune,2024-07-18,Levi Jeans,Fashion,3500.0,2,7000.0
+14,Meera,Bangalore,2024-08-05,Laptop HP,Electronics,60000.0,1,60000.0
+15,Nikhil,Mumbai,2024-08-20,Study Table,Furniture,5500.0,1,5500.0
+3,Amit,Delhi,2024-09-01,Backpack,Accessories,2500.0,2,5000.0
+6,Sneha,Hyderabad,2024-09-15,Smart Watch,Accessories,3000.0,1,3000.0
