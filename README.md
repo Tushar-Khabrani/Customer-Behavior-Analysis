@@ -6,26 +6,22 @@ End-to-end customer behavior analysis on a retail transactions dataset using **P
 
 ## 📁 Project Structure
 
-customer-behavior-analysis/
-├── python-analysis/
-│   ├── analysis.py
-│   ├── data/
-│   │   └── online_retail.xlsx
-│   └── graphs/
-│       └── (8 visualizations)
-├── sql-analysis/
-│   ├── sql/
-│   │   └── customer_data.sql
-│   ├── csv_exports/
-│   │   └── (5 CSV files)
-│   ├── graphs/
-│   │   └── (8 visualizations)
-│   ├── analysis.py
-│   └── export_csv.py
-├── report/
-│   └── customer_behavior_analysis.pdf
-└── README.md
-
+    customer-behavior-analysis/
+    ├── python-analysis/
+    │   ├── analysis.py
+    │   ├── data/
+    │   │   └── online_retail.xlsx
+    │   └── graphs/  (8 visualizations)
+    ├── sql-analysis/
+    │   ├── sql/
+    │   │   └── customer_data.sql
+    │   ├── csv_exports/  (5 CSV files)
+    │   ├── graphs/  (8 visualizations)
+    │   ├── analysis.py
+    │   └── export_csv.py
+    ├── report/
+    │   └── customer_behavior_analysis.pdf
+    └── README.md
 ---
 
 ## 📊 Analysis Performed
